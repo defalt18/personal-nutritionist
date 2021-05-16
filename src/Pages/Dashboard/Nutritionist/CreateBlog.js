@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState } from 'react'
 import './CreateBlog.css'
 import Blogitem from '../../../Pages/Blogs/Blogitem copy'

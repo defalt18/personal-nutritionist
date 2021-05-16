@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useParams } from 'react';
 import Popover from '@material-ui/core/Popover'
 import { Avatar } from '@material-ui/core';

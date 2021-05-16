@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import './SavedBlogs.css'
 import Blogitem from '../../../Pages/Blogs/Blogitem copy'

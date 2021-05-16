@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import Popover from '@material-ui/core/Popover'
 import { Avatar, Button, Typography } from '@material-ui/core';

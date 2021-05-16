@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import './NutriClientCard.css'
 import { db } from '../../../firebase'

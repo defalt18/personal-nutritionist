@@ -1,4 +1,5 @@
 //gender male: 1       female: 0
+/* eslint-disable */
 var userHeight = 1.422;
 var userWeight = 41;
 var userAge = 20;

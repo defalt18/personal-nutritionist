@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import NutriCard from './NutriCard'
 import { db, firebase } from '../../../firebase'

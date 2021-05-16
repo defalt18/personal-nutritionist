@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import img from '../../Images/img.png'
 import up from '../../Images/Upar_vala.png'

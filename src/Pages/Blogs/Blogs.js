@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, {useEffect} from 'react'
 import './Blogs.css'
 import FilterListIcon from '@material-ui/icons/FilterList';

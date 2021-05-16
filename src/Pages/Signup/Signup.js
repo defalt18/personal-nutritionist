@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState, useRef } from 'react'
 import './Signup.css'
 import { Link, useHistory } from "react-router-dom"

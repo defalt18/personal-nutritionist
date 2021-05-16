@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import './RecipeBook.css'
 import DashDrawer from '../../../Components/Dash Drawer/DashDrawer'

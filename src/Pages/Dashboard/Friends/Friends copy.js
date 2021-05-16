@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import './Friends.css'
 import TextField from '@material-ui/core/TextField';

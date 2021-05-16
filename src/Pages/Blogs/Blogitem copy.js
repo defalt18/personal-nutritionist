@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import './Blogitem copy.css'
 import img from './image 10.png'
